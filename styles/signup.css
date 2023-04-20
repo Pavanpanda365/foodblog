@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+
+}
+.SignUp{
+	width: 60%;
+	height: 60%;
+	border: 2px black ;
+	align-items: center;
+	justify-content: center;
+}
+form h2{
+	font-weight: bold;
+}
+.SignUpForm .form{
+	display: flex;
+	width: 50%;
+}
+.data{
+	display: flex;
+}
+.data h6{
+	padding-top: 10px;
+	font-weight: light;
+
+}
+.checkbox{
+	width: 20px;
+	height: 20px;
+}
+.button input{
+	color: white;
+	background-color: #6DABE4;
+	width: auto;
+	padding: 15px 39px;
+	border-radius: 10px;
+	border: none;
+}
+.logo{
+	width: 50%;
+}
+input{
+	border: none;
+	border-bottom: 1px solid black;
+	width: 400px;
+	height: 50px;
+	margin: 10px;
+}
+

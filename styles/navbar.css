@@ -1,0 +1,29 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.navbar {
+	padding: 10px;
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.logo {
+	margin: 10px;
+}
+
+.navbar .logo a {
+	text-decoration: none;
+	font-weight: 500;
+	font-size: 25px;
+}
+.links{
+	margin-left: 100px;
+}
+.links a {
+	text-decoration: none;
+	color: black;
+	margin: 30px;
+	font-size: 15px;
+}
